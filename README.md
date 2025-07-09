@@ -1,7 +1,14 @@
 <div align="center">
 # 👋 Hey, I’m Darshan Surampally  
+</div>
+---
+
+<div align="center">
+
 **Full Stack Developer | MERN Stack Enthusiast | AI Explorer | DSA Practitioner**
 </div>
+
+---
 🚀 I'm a passionate Full Stack Developer with a strong foundation in the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
 🎓 Engineering graduate with hands-on experience in building dynamic, scalable web apps and smart AI-integrated solutions.  
 🧠 I love solving problems with **C/C++**, **Data Structures & Algorithms**(Leetcode), and enjoy working on both frontend finesse and backend logic.  
