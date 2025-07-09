@@ -1,11 +1,12 @@
+<div align="center">
 # 👋 Hey, I’m Darshan Surampally  
 **Full Stack Developer | MERN Stack Enthusiast | AI Explorer | DSA Practitioner**
-
+</div>
 🚀 I'm a passionate Full Stack Developer with a strong foundation in the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
 🎓 Engineering graduate with hands-on experience in building dynamic, scalable web apps and smart AI-integrated solutions.  
-🧠 I love solving problems with **C/C++**, **Data Structures & Algorithms**, and enjoy working on both frontend finesse and backend logic.  
+🧠 I love solving problems with **C/C++**, **Data Structures & Algorithms**(Leetcode), and enjoy working on both frontend finesse and backend logic.  
 💼 I've completed internships as a frontend/backend developer and have contributed to AI-based tools and logistics platforms like **CargoConnect**.  
-🎯 Currently prepping for **SDE-1 roles**, exploring real-world challenges, and continuously learning new technologies.
+🎯 Currently Preparing for **SDE-1 roles**, exploring real-world challenges, and continuously learning new technologies.
 
 ---
 
@@ -49,7 +50,7 @@
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/darshansurampally/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
@@ -70,3 +71,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darshansurampally/darshansurampally/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/darshansurampally/darshansurampally/output/pacman-contribution-graph.svg">
 </picture>
+---
+
+<div align="center">
+🌟 *"The future belongs to those who harness AI, not fear it."*  
+</div>
