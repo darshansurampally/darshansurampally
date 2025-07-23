@@ -1,5 +1,5 @@
 <div align="center">
-## 👋 Hey, I’m Darshan Surampally  
+##👋 Hey, I’m Darshan Surampally  
 </div>
 
 ---
